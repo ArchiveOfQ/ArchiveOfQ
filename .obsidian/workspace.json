@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "53879f936e541ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb6e6efcf3bbce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d142e5c4c8af1337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试过程集/创建新github库并且换成新的账号.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "创建新github库并且换成新的账号"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9477b6e8d5fe651",
+    "type": "split",
+    "children": [
+      {
+        "id": "51900c696d2f74a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9815d6965880fe8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1d88851cc776175",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd3998594652ef35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a84979641854542d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4832d52673a2e3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e66e5c772059809",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试过程集/创建新github库并且换成新的账号.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 创建新github库并且换成新的账号"
+            }
+          },
+          {
+            "id": "71610be2da39dadf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "测试过程集/创建新github库并且换成新的账号.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 创建新github库并且换成新的账号"
+            }
+          },
+          {
+            "id": "3f06264663b151d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b63c385d36c0501f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "测试过程集/创建新github库并且换成新的账号.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 创建新github库并且换成新的账号"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d142e5c4c8af1337",
+  "lastOpenFiles": [
+    "信源列表/备注.md",
+    "信源列表/12272024.md",
+    "测试过程集/创建新github库并且换成新的账号.md",
+    "README.md"
+  ]
+}
