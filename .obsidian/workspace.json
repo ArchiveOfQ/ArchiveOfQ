@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b738beff81ed2c02",
+        "id": "bb48619f247d7dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5b07c68622cf95",
+            "id": "76d7be3b0e478eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5b07c68622cf95",
+  "active": "76d7be3b0e478eca",
   "lastOpenFiles": [
     "参观笔记/01012025 北京大运河博物馆.md",
     "README.md",
