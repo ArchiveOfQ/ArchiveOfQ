@@ -11,14 +11,12 @@
             "id": "76d7be3b0e478eca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "练习记录/ProkoBasic/ProkoBasic图片/snail(CSI).pic.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "snail(CSI).pic"
             }
           }
         ]
@@ -164,9 +162,12 @@
   },
   "active": "76d7be3b0e478eca",
   "lastOpenFiles": [
+    "练习记录/ProkoBasic/ProkoBasic图片/shoes(CSI).pic.png",
+    "练习记录/ProkoBasic/ProkoBasic图片/pearWithDemo.png",
+    "练习记录/ProkoBasic/ProkoBasic图片/snail(CSI).pic.png",
     "案例集/素问笔记/向问天 任我行.md",
-    "信源列表/01172025更新中.md",
     "README.md",
+    "信源列表/01172025更新中.md",
     "案例集/素问笔记/新帝国陨落.md",
     "案例集/素问笔记/扫兴.md",
     "案例集/读书笔记/待跳读列表.md",
@@ -197,17 +198,13 @@
     "练习记录/房屋布局描述/自制图片/01052025a2.png",
     "练习记录/ProkoBasic/01082025.md",
     "练习记录/ProkoBasic/ProkoBasic图片/pearBeforeDemo.png",
-    "练习记录/ProkoBasic/ProkoBasic图片/pearWithDemo.png",
     "练习记录/ProkoBasic/ProkoBasic图片",
     "练习记录/ProkoBasic",
     "小练习合集/Untitled.md",
-    "练习记录/房屋布局描述/自制图片/12242024b2.png",
-    "练习记录/房屋布局描述/自制图片/01052025b2.png",
     "7c9dccdf0439e0c5738fa2f7b7f6ae55.pic",
     "a9cfc7375f4da394535cd80b22144b82.pic",
     "案例集/素问笔记合集/备注.md",
     "案例集/素问笔记",
-    "案例集/杂事/01032025 玩athena练习推理.md",
     "IMG_4717.heic",
     "案例集/杂事/杂事图片"
   ]
