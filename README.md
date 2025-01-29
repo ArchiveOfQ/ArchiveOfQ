@@ -21,6 +21,8 @@ repo结构如下：
 
 │   ├── 素问笔记
 
+│   │   ├── 亲近.md
+
 │   │   ├── 扫兴.md
 
 │   │   ├── 持重.md
@@ -71,6 +73,10 @@ repo结构如下：
 
 │   │   └── ProkoBasic图片
 
+│   │       ├── learningtosketchfromobservationhandandvrgirl.png
+
+│   │       ├── learningtosketchfromobservationpenguin.png
+
 │   │       ├── pearBeforeDemo.png
 
 │   │       ├── pearWithDemo.png
@@ -105,6 +111,14 @@ repo结构如下：
 
 │   │       └── 12242024b2.png
 
+│   ├── 表达能力自选集
+
+│   │   ├── 计划log.md
+
+│   │   ├── 从目标到计划.md
+
+│   │   └── 从计划到实施.md
+
 │   └── 不同方向的一立方米方块
 
 │       ├── 12262024.md
@@ -128,8 +142,6 @@ repo结构如下：
 - [ ] 名人列表
 - [ ] 军事博物馆问题解答
 - [ ] 海关博物馆问题解答
-- [ ] 素问笔记1
-- [ ] 素问笔记2
 
 
 
