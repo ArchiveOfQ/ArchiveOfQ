@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "854045ca7d85c9f7",
+        "id": "072a7fdb27797ad1",
         "type": "tabs",
         "children": [
           {
-            "id": "35a8aa2c779b33c0",
+            "id": "503acd75ea09a1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习记录/自选集/如何判断自己正在被生活毒打.md",
+                "file": "案例集/读书笔记/丹麦家具设计史.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何判断自己正在被生活毒打"
+              "title": "丹麦家具设计史"
             }
           }
         ]
@@ -163,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35a8aa2c779b33c0",
+  "active": "9815d6965880fe8c",
   "lastOpenFiles": [
     "练习记录/自选集/浅体验深体验列表.md",
-    "练习记录/自选集/从目标到计划.md",
     "案例集/读书笔记/丹麦家具设计史.md",
-    "练习记录/自选集/从计划到实施.md",
+    "案例集/杂事/02072025 使用不熟悉的编程语言做贡献.md",
     "练习记录/自选集/如何判断自己正在被生活毒打.md",
+    "练习记录/自选集/从目标到计划.md",
+    "练习记录/自选集/从计划到实施.md",
     "练习记录/ProkoBasic/ProkoBasic图片/snail(CSI).pic.png",
     "练习记录/ProkoBasic/ProkoBasic图片/shoes(CSI).pic.png",
     "练习记录/ProkoBasic/ProkoBasic图片/pearWithDemo.png",
@@ -198,7 +199,6 @@
     "案例集/素问笔记/扫兴.md",
     "案例集/读书笔记/待跳读列表.md",
     "案例集/读书笔记/盐铁论.md",
-    "案例集/博物馆参观笔记/01122025 北京海关博物馆.md",
     "案例集/今日新闻",
     "案例集/观影笔记",
     "练习记录/房屋布局描述/自制图片/01052025b3.png",
