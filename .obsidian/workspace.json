@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "072a7fdb27797ad1",
+        "id": "d5d149cfa1bdb46d",
         "type": "tabs",
         "children": [
           {
-            "id": "503acd75ea09a1c1",
+            "id": "93e5d86bd8798977",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "练习记录/ProkoBasic/ProkoBasic图片/sketchfromimagination.png"
-              },
-              "icon": "lucide-image",
-              "title": "sketchfromimagination"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503acd75ea09a1c1",
+  "active": "93e5d86bd8798977",
   "lastOpenFiles": [
-    "练习记录/ProkoBasic/ProkoBasic图片/snail(CSI).pic.png",
+    "练习记录/自选集/概念辨析.md",
     "练习记录/ProkoBasic/ProkoBasic图片/sketchfromimagination.png",
+    "练习记录/ProkoBasic/ProkoBasic图片/snail(CSI).pic.png",
     "练习记录/ProkoBasic/ProkoBasic图片/shoes(CSI).pic.png",
     "练习记录/ProkoBasic/ProkoBasic图片/pearWithDemo.png",
     "练习记录/ProkoBasic/ProkoBasic图片/pearBeforeDemo.png",
@@ -194,7 +193,6 @@
     "信源列表/01062024.md",
     "信源列表/12272024.md",
     "信源列表/01192025.md",
-    "信源列表/01132024.md",
     "练习记录/表达能力自选/Untitled",
     "练习记录/自选集",
     "案例集/今日新闻",
