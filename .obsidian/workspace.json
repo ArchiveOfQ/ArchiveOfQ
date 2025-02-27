@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习记录/自选集/Vision更新合集.md",
+                "file": "案例集/读书笔记/待跳读列表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vision更新合集"
+              "title": "待跳读列表"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "93e5d86bd8798977",
   "lastOpenFiles": [
-    "练习记录/自选集/observations.md",
     "练习记录/自选集/Vision更新合集.md",
+    "练习记录/自选集/observations.md",
     "案例集/读书笔记/丹麦家具设计史.md",
     "案例集/名人列表.md",
     "案例集/素问笔记/持重.md",
